@@ -64,6 +64,9 @@ help:
 	@echo "   * build [DEFAULT]"
 	@echo "   * clean/clear"
 
+run:
+	@./$(OUTPUT_FULL)
+	
 	
 ####################################
 #           Compilations           #
