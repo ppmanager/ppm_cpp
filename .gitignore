@@ -1,5 +1,5 @@
 makefile
 bin
 out
+_objs
 *.stackdump
-root
